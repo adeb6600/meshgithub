@@ -1,0 +1,13 @@
+[global]
+ApplicationName=My First Elastic Beanstalk Application
+AwsCredentialFile=c:/Users/USER\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=Default-Enviroment
+OptionSettingFile=C:\mesh\.elasticbeanstalk\optionsettings.Default-Enviroment
+RdsDeletionPolicy=Snapshot
+RdsEnabled=Yes
+RdsSourceSnapshotName=
+Region=us-east-1
+ServiceEndpoint=https://elasticbeanstalk.us-east-1.amazonaws.com
+SolutionStack=64bit Amazon Linux running PHP 5.4
+
